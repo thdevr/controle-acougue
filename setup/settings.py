@@ -43,8 +43,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-
-    'apps.aluno.apps.AlunoConfig'
+    'apps.acougue',
+    'apps.aluno.apps.AlunoConfig',
 ]
 
 MIDDLEWARE = [
